@@ -44,13 +44,13 @@ Github
 
 ::
 
-    pip install git+https://github.com/sivel/speedtest-cli.git
+    pip install git+https://github.com/mushabasheera/speedtest-cli.git
 
 or
 
 ::
 
-    git clone https://github.com/sivel/speedtest-cli.git
+    git clone https://github.com/mushabasheera/speedtest-cli.git
     cd speedtest-cli
     python setup.py install
 
